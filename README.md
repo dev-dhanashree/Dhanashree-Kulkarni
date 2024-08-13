@@ -1,6 +1,6 @@
 ![logo](https://github.com/dev-dhanashree/Dhanashree-Kulkarni/blob/main/Github_banner.png)
 <h1 align="center">Hi 👋, I'm Dhanashree Kulkarni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/73ac59f4f2bb3f2de9ebbc2c4791f160a8fa8aacf6c7fe59a5599a1b730d2b55/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
 
