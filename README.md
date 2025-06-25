@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/73ac59f4f2bb3f2de9ebbc2c4791f160a8fa8aacf6c7fe59a5599a1b730d2b55/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
 
-- 🌱 I’m currently learning **Advance Java, AI, Python**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, ReactJS**
 
 - 📫 How to reach me **dhanashree8522@gmail.com**
 
